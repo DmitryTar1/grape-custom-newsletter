@@ -3,7 +3,7 @@
 ## Project setup
 ```
 npm install
-npm install grapejs --no-save
+npm install grapesjs --no-save
 ```
 
 ### Compiles and hot-reloads for development
